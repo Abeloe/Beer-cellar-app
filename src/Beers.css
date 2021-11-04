@@ -1,0 +1,16 @@
+.beer-list .container {
+  background-color: grey;
+  margin: 20px auto;
+  border-radius: 12px;
+  border: 1px solid;
+  width: 500px;
+  display: flex;
+}
+
+.beer-list ul {
+  padding: 0;
+}
+
+.beer-list li {
+  list-style: none;
+}
